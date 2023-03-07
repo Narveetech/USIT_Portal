@@ -17,6 +17,7 @@ public class UsitPortalApplication extends SpringBootServletInitializer{
 	
 	public static void main(String[] args) {
 		logger.info("inside UsitPortalApplicatio class, Method !!!: main method");
+		System.out.println("updated usit_portal");
 		SpringApplication.run(UsitPortalApplication.class, args);
 	}
 	
