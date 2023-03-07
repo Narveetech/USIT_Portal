@@ -1,0 +1,5 @@
+2023-03-07 12:44:19,911 INFO  UsitPortalApplication:19 - [] inside UsitPortalApplicatio class, Method !!!: main method
+2023-03-07 12:44:20,220 INFO  UsitPortalApplication:19 - [] inside UsitPortalApplicatio class, Method !!!: main method
+2023-03-07 12:44:20,933 INFO  StartupInfoLogger:55 - [] Starting UsitPortalApplication using Java 11.0.18 on DESKTOP-024JAS8 with PID 11312 (E:\logs\USIT_Portal\target\classes started by laksh in E:\logs\USIT_Portal)
+2023-03-07 12:44:20,935 DEBUG StartupInfoLogger:56 - [] Running with Spring Boot v2.7.5, Spring v5.3.23
+2023-03-07 12:44:20,937 INFO  SpringApplication:634 - [] No active profile set, falling back to 1 default profile: "default"
